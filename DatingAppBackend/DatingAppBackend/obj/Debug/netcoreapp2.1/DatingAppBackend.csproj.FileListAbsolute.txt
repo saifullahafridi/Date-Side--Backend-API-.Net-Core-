@@ -1,0 +1,28 @@
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.deps.json
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.runtimeconfig.json
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.runtimeconfig.dev.json
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.dll
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.csprojAssemblyReference.cache
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.csproj.CoreCompileInputs.cache
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.RazorAssemblyInfo.cache
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.RazorAssemblyInfo.cs
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.AssemblyInfoInputs.cache
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.AssemblyInfo.cs
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.RazorTargetAssemblyInfo.cache
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.pdb
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.dll
+F:\Asp.net Core And Angular Project From Video Series\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.pdb
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.deps.json
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.runtimeconfig.json
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.runtimeconfig.dev.json
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.dll
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\bin\Debug\netcoreapp2.1\DatingAppBackend.pdb
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.csprojAssemblyReference.cache
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.RazorAssemblyInfo.cache
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.RazorAssemblyInfo.cs
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.AssemblyInfoInputs.cache
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.AssemblyInfo.cs
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.RazorTargetAssemblyInfo.cache
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.dll
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.pdb
+F:\Dating APP With Angular\DatingAppBackend\DatingAppBackend\obj\Debug\netcoreapp2.1\DatingAppBackend.csproj.CoreCompileInputs.cache
